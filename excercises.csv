@@ -1,0 +1,80 @@
+﻿Id,muscle,sub_muscle,strength,equipment,bar_type,name,small_muscle,important
+1,arms,biceps,FALSE,Dumbells,,Dumbell Curl ,None,FALSE
+2,arms,biceps,FALSE,Dumbells,,Dumbell Hammer Curl ,Forearm,FALSE
+3,arms,biceps,TRUE,Barbell,,Barbell Curl,Forearm,FALSE
+4,arms,biceps,FALSE,Dumbells,,Incline Dumbell Curl,None,FALSE
+5,arms,biceps,FALSE,EZ-Bar,,EZ-Barbell Curl,Forearm,FALSE
+6,arms,biceps,FALSE,Barbell,,Reverse Barbell Curl,Forearm,FALSE
+7,arms,biceps,FALSE,Cable,,Overhead Cable Curl,None,FALSE
+8,arms,biceps,FALSE,EZ-Bar,,Preacher Curl,None,FALSE
+9,arms,biceps,FALSE,Cable,,Cable Curl - Rope,None,FALSE
+10,arms,biceps,FALSE,Cable,,Cable Curl - Bar,None,FALSE
+11,arms,biceps,FALSE,Dumbells,,Concentration Curl ,None,FALSE
+12,arms,triceps,TRUE,EZ-Bar,,Skull Crusher,None,FALSE
+13,arms,triceps,TRUE,Body-Weight,,Dips,None,FALSE
+14,arms,triceps,FALSE,Body-Weight,,Bench Dips,None,FALSE
+15,arms,triceps,TRUE,Barbell,,Close-Grip Bench Press,None,FALSE
+16,arms,triceps,FALSE,Body-Weight,,Pushups,None,FALSE
+17,arms,triceps,FALSE,Cable,Rope,Cable Overhead Extension,None,FALSE
+18,arms,triceps,FALSE,Dumbells,,Close-Grip Dumbell Press,None,FALSE
+19,arms,triceps,FALSE,Cable,V-Bar,Cable Tricep Pushdown ,None,FALSE
+20,arms,triceps,FALSE,Cable,Rope,Cable Tricep Pushdown ,None,FALSE
+21,arms,triceps,TRUE,Dumbells,,Dumbell Overhead Extension,None,FALSE
+22,arms,triceps,FALSE,Dumbells,,Dumbell Tricep Kickback ,None,FALSE
+23,arms,triceps,FALSE,Dumbells,,Dumbell Skull Crusher,None,FALSE
+24,shoulders,mix,TRUE,Barbell,,Single-Arm Linear Jammer,None,FALSE
+25,shoulders,mid,FALSE,Dumbells,,Dumbell Lateral Raise,None,FALSE
+26,shoulders,front,FALSE,Dumbells,,Dumbell Front Raise,None,FALSE
+27,shoulders,mid,FALSE,Dumbells,,1-Arm Dumbell Lateral Raise,None,FALSE
+28,shoulders,front,FALSE,Dumbells,,1-Arm Dumbell Front Raise,None,FALSE
+29,shoulders,front,TRUE,Barbell,,Barbell Front Raise,None,FALSE
+30,shoulders,mid,FALSE,Cable,,1-Arm Cable Lateral Raise,None,FALSE
+31,shoulders,front,FALSE,Cable,,1-Arm Cable Front Raise,None,FALSE
+32,shoulders,mix,TRUE,Barbell,,Barbell Shoulder Press,None,FALSE
+33,shoulders,mix,FALSE,Dumbells,,Dumbell Shoulder Press,None,FALSE
+34,shoulders,mix,FALSE,Machine,,Machine Shoulder Press,None,FALSE
+35,shoulders,mix,FALSE,Dumbells,,Arnold Press,None,FALSE
+36,shoulders,rear,FALSE,Dumbells,,Reverse Flyes,Traps,FALSE
+37,shoulders,rear,FALSE,Machine,,Reverse Peck Deck,Traps,FALSE
+38,shoulders,rear,FALSE,Cable,,Cable Face Pull - Rope,Traps,FALSE
+39,shoulders,rear,FALSE,Cable,,Cable Reverse Fly,Traps,FALSE
+40,shoulders,mix,FALSE,Other,,Car Drivers,None,FALSE
+41,back,lower_back,TRUE,Barbell,,Deadlift,None,FALSE
+42,back,lats,TRUE,Cable,V-Bar,V-Bar PullDowns ,None,FALSE
+43,back,lats,TRUE,Cable,Bar,Wide Grip PullDowns ,None,FALSE
+44,back,lats,TRUE,Cable,Bar,Medium Grip PullDowns,None,FALSE
+45,back,lats,TRUE,Cable,Bar,Close Grip Pulldowns ,None,FALSE
+46,back,lats,TRUE,Cable,Bar,Reverse-grip PullDowns,None,FALSE
+47,back,lats,TRUE,Body-Weight,,Pull Ups,None,FALSE
+48,back,lats,FALSE,Cable,Bar,Straight-Arm Pulldown ,None,FALSE
+49,back,lats,FALSE,Cable,Rope,Straight-Arm Pulldown,None,FALSE
+50,back,lats,FALSE,Machine,,Machine Pulldown,None,FALSE
+51,back,mid_back,TRUE,Barbell,,T-Bar Row,Traps,FALSE
+52,back,mid_back,TRUE,Dumbells,,1-Arm Dumbell Row,None,FALSE
+53,back,mid_back,TRUE,Barbell,,Barbell Bent-Over Row,None,FALSE
+54,back,mid_back,TRUE,Cable,,Cable Row,None,FALSE
+55,back,mid_back,FALSE,Machine,,Machine Row,None,FALSE
+56,back,lower_back,TRUE,Barbell,,Straight-Legged Deadlift,None,FALSE
+57,back,lower_back,TRUE,Other,,Hyperextensions,None,FALSE
+58,legs,quads,FALSE,Body-Weight,,Weightless Squats,None,FALSE
+59,legs,quads,TRUE,Barbell,,Back-Squats,Glutes,FALSE
+60,legs,quads,TRUE,Barbell,,Front-Squats,None,FALSE
+61,legs,quads,TRUE,Machine,,Leg Press,Calves,FALSE
+62,legs,quads,FALSE,Machine,,1-Leg Leg Press,Calves,FALSE
+63,legs,quads,FALSE,Machine,,Leg Extension,None,FALSE
+64,legs,hamstring,FALSE,Machine,,Lying Leg Curl,None,FALSE
+65,legs,hamstring,FALSE,Barbell,,Straight-Legged Deadlift,None,FALSE
+66,legs,hamstring,FALSE,Dumbells,,Dumbell Lunges,Calves,FALSE
+67,legs,hamstring,TRUE,Barbell,,Barbell Lunges,Calves,FALSE
+68,legs,hamstring,FALSE,Machine,,Seated Hamstring Curl,None,FALSE
+69,legs,glutes,FALSE,Barbell,,Barbell Glute Bridge,None,FALSE
+70,legs,glutes,FALSE,Cable,,1-Leg Cable Kickback,None,FALSE
+71,chest,,TRUE,Barbell,,Bench Press,None,FALSE
+72,chest,,FALSE,Dumbells,,Bench Press,None,FALSE
+73,chest,,TRUE,Barbell,,Incline Bench Press,None,FALSE
+74,chest,,FALSE,Dumbells,,Incline Bench Press,None,FALSE
+75,chest,,TRUE,Barbell,,Decline Bench Press,None,FALSE
+76,chest,,FALSE,Dumbells,,Decline Bench Press,None,FALSE
+77,chest,,FALSE,Dumbells,,Flyes,None,FALSE
+78,chest,,FALSE,Cable,,Flyes,None,FALSE
+79,chest,,FALSE,Machine,,Peck Deck,None,FALSE
