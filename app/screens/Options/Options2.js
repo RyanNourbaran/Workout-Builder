@@ -7,7 +7,7 @@
 import React, { Component } from "react";
 import { TouchableOpacity, Image } from "react-native";
 
-import { AppRegistry, StyleSheet, Text, View, Button } from "react-native";
+import { AppRegistry, StyleSheet, Text, View, Button, KeyboardAvoidingView } from "react-native";
 import { Table, TableWrapper, Row, Rows, Col, Cols, Cell } from "react-native-table-component";
 
 import styles from "./styles.js";
@@ -25,18 +25,14 @@ export default class MainOptions extends Component {
     }
     render() {
         return (
-            <View style={styles.container}>
-                <View style={styles.BtnRow} />
-                <View style={styles.BtnRow}>
-                    <MuscleButton img={require("../../imgs/Back.jpg")} muscle={"back"} />
-                </View>
+            <KeyboardAvoidingView behaviour="height" style={styles.container}>
                 <View style={styles.BtnRow}>
                     <Create
                         bodyParts={this.props.navigation.state.params.bodyParts}
                         navigation={this.props.navigation}
                     />
                 </View>
-            </View>
+            </KeyboardAvoidingView>
         );
     }
 }

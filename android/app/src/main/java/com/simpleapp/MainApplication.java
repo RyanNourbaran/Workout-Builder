@@ -1,4 +1,4 @@
-package com.simpleapp;
+package com.Arvalic.WorkoutBuilder;
 
 import android.app.Application;
 

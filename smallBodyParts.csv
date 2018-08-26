@@ -1,0 +1,11 @@
+Id,muscle,sub_muscle,strength,equipment,bar_type,name,small_muscle,important
+1,calves,,FALSE,Barbell,,Calf-Raise,None,FALSE
+2,calves,,FALSE,Machine,,Sitting Calf-Raise,None,FALSE
+3,calves,,FALSE,Machine,,Standing Calf-Raise,None,FALSE
+4,traps,,FALSE,Barbell,,Barbell shrug,None,FALSE
+5,traps,,FALSE,Dumbells,,Dumbell Shrug,None,FALSE
+6,traps,,FALSE,Dumbells,,Farmer's Walk,None,FALSE
+7,forearms,,FALSE,Dumbells,,Wrist Curls,None,FALSE
+8,forearms,,FALSE,Dumbells,,Reverse Wrist Curls,None,FALSE
+9,forearms,,FALSE,Dumbells,,Farmer's Walk,None,FALSE
+10,forearms,,FALSE,Barbell,,Behind the Back Wrist Curls,None,FALSE

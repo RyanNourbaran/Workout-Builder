@@ -9,9 +9,13 @@
 	"dependencies": {
 		"react": "16.0.0-alpha.12",
 		"react-native": "0.48.4",
+		"react-native-checkbox": "^2.0.0",
+		"react-native-fa-icons": "^3.0.1",
 		"react-native-image-button": "^1.0.0",
 		"react-native-img-button": "^1.0.1",
+		"react-native-modal": "^4.1.1",
 		"react-native-table-component": "^1.1.0",
+		"react-native-vector-icons": "^4.4.3",
 		"react-navigation": "^1.0.0-beta.13"
 	},
 	"devDependencies": {

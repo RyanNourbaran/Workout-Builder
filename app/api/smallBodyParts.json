@@ -1,0 +1,112 @@
+[
+  {
+    "Id": 1,
+    "muscle": "calves",
+    "sub_muscle": "",
+    "strength": "FALSE",
+    "equipment": "Barbell",
+    "bar_type": "",
+    "name": "Calf-Raise",
+    "small_muscle": "None",
+    "important": "FALSE"
+  },
+  {
+    "Id": 2,
+    "muscle": "calves",
+    "sub_muscle": "",
+    "strength": "FALSE",
+    "equipment": "Machine",
+    "bar_type": "",
+    "name": "Sitting Calf-Raise",
+    "small_muscle": "None",
+    "important": "FALSE"
+  },
+  {
+    "Id": 3,
+    "muscle": "calves",
+    "sub_muscle": "",
+    "strength": "FALSE",
+    "equipment": "Machine",
+    "bar_type": "",
+    "name": "Standing Calf-Raise",
+    "small_muscle": "None",
+    "important": "FALSE"
+  },
+  {
+    "Id": 4,
+    "muscle": "traps",
+    "sub_muscle": "",
+    "strength": "FALSE",
+    "equipment": "Barbell",
+    "bar_type": "",
+    "name": "Barbell shrug",
+    "small_muscle": "None",
+    "important": "FALSE"
+  },
+  {
+    "Id": 5,
+    "muscle": "traps",
+    "sub_muscle": "",
+    "strength": "FALSE",
+    "equipment": "Dumbells",
+    "bar_type": "",
+    "name": "Dumbell Shrug",
+    "small_muscle": "None",
+    "important": "FALSE"
+  },
+  {
+    "Id": 6,
+    "muscle": "traps",
+    "sub_muscle": "",
+    "strength": "FALSE",
+    "equipment": "Dumbells",
+    "bar_type": "",
+    "name": "Farmer's Walk",
+    "small_muscle": "None",
+    "important": "FALSE"
+  },
+  {
+    "Id": 7,
+    "muscle": "forearms",
+    "sub_muscle": "",
+    "strength": "FALSE",
+    "equipment": "Dumbells",
+    "bar_type": "",
+    "name": "Wrist Curls",
+    "small_muscle": "None",
+    "important": "FALSE"
+  },
+  {
+    "Id": 8,
+    "muscle": "forearms",
+    "sub_muscle": "",
+    "strength": "FALSE",
+    "equipment": "Dumbells",
+    "bar_type": "",
+    "name": "Reverse Wrist Curls",
+    "small_muscle": "None",
+    "important": "FALSE"
+  },
+  {
+    "Id": 9,
+    "muscle": "forearms",
+    "sub_muscle": "",
+    "strength": "FALSE",
+    "equipment": "Dumbells",
+    "bar_type": "",
+    "name": "Farmer's Walk",
+    "small_muscle": "None",
+    "important": "FALSE"
+  },
+  {
+    "Id": 10,
+    "muscle": "forearms",
+    "sub_muscle": "",
+    "strength": "FALSE",
+    "equipment": "Barbell",
+    "bar_type": "",
+    "name": "Behind the Back Wrist Curls",
+    "small_muscle": "None",
+    "important": "FALSE"
+  }
+]

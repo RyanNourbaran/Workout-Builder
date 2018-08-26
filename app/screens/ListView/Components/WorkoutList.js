@@ -19,8 +19,8 @@ export default class WorkoutList extends Component {
     }
     renderTable() {
         if (this.props.names.length > 0) {
-            const tableHead = ["Excercise", "Equipment"];
-            const tableData = [this.props.names, this.props.equipment];
+            const tableHead = ["Excercise", "Equipment"]; //Change if adding more columns
+            const tableData = [this.props.names, this.props.equipment]; //Change if adding more columns
             return (
                 <Table style={styles.table}>
                     <Row
@@ -53,8 +53,7 @@ const styles = StyleSheet.create({
         alignSelf: "stretch"
     },
     container: {
-        backgroundColor: "#73CFE6",
-        height: "100%"
+        backgroundColor: "#73CFE6"
     },
     head: {
         height: 40,
@@ -68,5 +67,11 @@ const styles = StyleSheet.create({
         textAlign: "center",
         fontSize: 20,
         fontWeight: "bold"
+    },
+    BtnRow: {
+        flex: 1,
+        flexDirection: "row",
+        justifyContent: "space-around",
+        margin: 5
     }
 });

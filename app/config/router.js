@@ -4,6 +4,7 @@ import { TabNavigator, StackNavigator } from "react-navigation";
 import ListView from "../screens/ListView/ListView";
 import MainOptions from "../screens/Options/MainOptions";
 import Options2 from "../screens/Options/Options2";
+import Exercise from "../screens/ExercisePage/Exercise";
 
 export const Root = StackNavigator(
     {
@@ -22,6 +23,12 @@ export const Root = StackNavigator(
         ListView: {
             screen: ListView,
             navigationOptions: ({ navigation }) => ({
+                title: "Workout         "
+            })
+        },
+        Exercise: {
+            screen: Exercise,
+            navigationOptions: ({ navigation, screenProps }) => ({
                 title: "Workout         "
             })
         }

@@ -35,8 +35,6 @@ export default class MainOptions extends Component {
         } else {
             for (var i = 0; i < this.state.bodyParts.length; i++) {
                 if (bodypart === oldState[i]) {
-                    console.log(bodypart);
-                    console.log(oldState[i]);
                     oldState.splice(i, 1); //removes from list
                     this.setState({
                         bodyParts: oldState
