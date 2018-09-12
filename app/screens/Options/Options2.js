@@ -1,7 +1,5 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
+ * Second options menu designed to see the time, etc. requirements of the workout
  */
 
 import React, { Component } from "react";

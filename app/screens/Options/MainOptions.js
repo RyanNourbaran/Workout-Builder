@@ -1,7 +1,5 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
+ * Form designed to get user's requirements on their workout
  */
 
 import React, { Component } from "react";
@@ -50,6 +48,7 @@ export default class MainOptions extends Component {
             }
         }
     }
+
     render() {
         return (
             <View style={styles.container}>

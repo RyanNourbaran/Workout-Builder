@@ -1,4 +1,6 @@
-/* @flow */
+/*
+* Shows each workout exercise one at a time 
+*/
 
 import React, { Component } from "react";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";

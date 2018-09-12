@@ -1,4 +1,4 @@
-/* @flow */
+/* Muscle button used to pick which muscle ot workout */
 
 import React, { Component } from "react";
 import { View, Text, StyleSheet, Button } from "react-native";

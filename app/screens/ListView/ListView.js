@@ -1,4 +1,6 @@
-/* @flow */
+/*
+*   list format of the chosen generated exercises
+*/
 
 import React, { Component } from "react";
 import { View, Text, StyleSheet, Button } from "react-native";
