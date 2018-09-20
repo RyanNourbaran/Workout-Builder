@@ -1,5 +1,5 @@
 /*
-* Shows each workout exercise one at a time 
+* Shows each workout exercise one at a time
 */
 
 import React, { Component } from "react";
@@ -17,7 +17,6 @@ export default class Exercise extends Component {
         this.state = {
             index: 0,
             modalVisible: false,
-
             set1: false,
             set2: false,
             set3: false,

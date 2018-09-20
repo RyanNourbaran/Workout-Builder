@@ -30,6 +30,20 @@ export default class ListView extends Component {
                         )}
                     title="Start Workout"
                 />
+                <Button
+                    onPress={() =>
+                        this.props.navigation.navigate(
+                            "Exercise",
+                            {
+                                workoutType: this.props.navigation.state.params.workoutType,
+                                exercises: this.props.navigation.state.params.names,
+                                muscle: this.props.navigation.state.params.muscle,
+                                equipment: this.props.navigation.state.params.equipment
+                            },
+                            60
+                        )}
+                    title="Start Workout"
+                />
             </View>
         );
     }

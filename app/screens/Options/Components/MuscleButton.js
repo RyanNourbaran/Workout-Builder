@@ -38,6 +38,20 @@ export default class MuscleButton extends Component {
                 <Text style={this.state.clicked ? styles.txtclicked : styles.txtunclicked}>
                     {muscle}
                 </Text>
+                <Button
+                    onPress={() =>
+                        this.props.navigation.navigate(
+                            "Exercise",
+                            {
+                                workoutType: this.props.navigation.state.params.workoutType,
+                                exercises: this.props.navigation.state.params.names,
+                                muscle: this.props.navigation.state.params.muscle,
+                                equipment: this.props.navigation.state.params.equipment
+                            },
+                            60
+                        )}
+                    title="Start Workout"
+                />
             </View>
         );
     }
